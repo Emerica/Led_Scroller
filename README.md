@@ -11,3 +11,5 @@ Looks like I had the shield wired with an IR emitter from pin 3 with a 100ohm re
 <img src='http://openlgtv.org.ru/wiki/images/e/ef/Arduino-IR-emiter.png'/><br/>
 
 <img src='http://canadiantire.scene7.com/is/image/CanadianTire/0375354_1?$sri-image$'/><br/>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/FglPOzzrN0s" frameborder="0" allowfullscreen></iframe>

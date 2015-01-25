@@ -12,4 +12,4 @@ Looks like I had the shield wired with an IR emitter from pin 3 with a 100ohm re
 
 <img src='http://canadiantire.scene7.com/is/image/CanadianTire/0375354_1?$sri-image$'/><br/>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/FglPOzzrN0s" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/FglPOzzrN0s" >http://www.youtube.com/embed/FglPOzzrN0s</a>

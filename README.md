@@ -1,2 +1,4 @@
 # Led_Scroller
-Led Scrolling Sign Automation
+LED scroller - IR automated programming
+Canadian Tire Led scroller special. Pita to program with the remote. Not so much with a robot.
+https://hackaday.io/project/879-led-scroller-ir-automated-programming

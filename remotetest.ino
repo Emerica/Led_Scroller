@@ -1,3 +1,11 @@
+#
+# IR REMOTE FOR LED SCROLLER
+# SEND SERIAL MESSAGE TO BOARD 
+# - send serial 1HELLOWORLD
+# - Will edit slot 1, putting in HELLOWORLD
+# You must prefix message with slot 1-5
+# Make sure CAPS are OFF on sign before programming
+
 #include <IRremote.h>
 
 IRsend irsend;
